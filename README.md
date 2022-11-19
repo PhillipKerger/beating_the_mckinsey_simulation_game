@@ -1,4 +1,9 @@
 # beating_the_mckinsey_simulation_game
+This code is to be used purely for the purpose of having fun in the video game McKinsey PSG Simulation by MConsulting Prep, which should not be confused with the McKinsey Problem Solving Game that is given to McKinsey applicants. 
+<br>
+<br>
+
+###Description:
 Python code that beats the McKinsey PSG simulation provided by MConsulting Prep. <br>
 
 This code finds a solution to the ecosystem portion of the McKinsey PSG simulation, provided by MConsulting Prep, upon the user inputting a list organisms to choose from. 
@@ -8,6 +13,4 @@ The McKinsey PSG simulation game, provided by MConsulting Prep, is a fun video g
 mckinsey_sim_game_lib.py contains useful functions for winning the simulation game. <br>
 solve_example.py provides an example of how the data should be input in order to find a solution.
 solve_template.py provides a useful template for easily inputting the data. 
-<br>
-<br>
-This code is to be used purely for the purpose of having fun in the video game McKinsey PSG Simulation by MConsulting Prep, which should not be confused with the McKinsey Problem Solving Game that is given to McKinsey applicants. 
+
