@@ -1,4 +1,4 @@
-# beating_the_mckinsey_simulation_game
+# Beating the McKinsey Simulation Game
 This code is to be used purely for the purpose of having fun in the video game McKinsey PSG Simulation by MConsulting Prep, which should not be confused with the McKinsey Problem Solving Game that is given to McKinsey applicants. 
 <br>
 <br>
