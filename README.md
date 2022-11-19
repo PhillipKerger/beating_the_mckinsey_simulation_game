@@ -10,7 +10,7 @@ This code finds a solution to the ecosystem portion of the McKinsey PSG simulati
 <br>
 The McKinsey PSG simulation game, provided by MConsulting Prep, is a fun video game, the first portion of which consists of creating an ecosystem of various organisms that can survive all together. There is a tutorial that spells out the rules to the game, which are implemented in mkinsey_game_lib.py's simulate function. The find_opt function then can search for the best combination of organisms out of the given input list (with respect to excess calories in the system at the end). Details are spelled out in the code. The user needs to only pick a part of the ecosystem that is habitable to many organisms, and then input the organism data of those organisms that can survive in the chosen location. The user also chooses some 'splits' of how many apex predators, regular predators, and producer organisms should be considered. The code succeeds in fingding the optimal solutions (wrt to excess calories) in the simulation game. 
 <br>
-mckinsey_sim_game_lib.py contains useful functions for winning the simulation game. <br>
-solve_example.py provides an example of how the data should be input in order to find a solution.
+mckinsey_sim_game_lib.py contains useful functions for winning the simulation game. The find_opt solution currently only implements random search, which is sufficient here since the search space is small and the simulations are fast. <br>
+solve_example.py provides an example of how the data should be input in order to find a solution. <br>
 solve_template.py provides a useful template for easily inputting the data. 
 
