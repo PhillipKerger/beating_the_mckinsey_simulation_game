@@ -1,5 +1,5 @@
 # beating_the_mckinsey_simulation_game
-Python code that beats the McKinsey PSG simulation. <br>
+Python code that beats the McKinsey PSG simulation provided by MConsulting Prep. <br>
 
 This code finds a solution to the ecosystem portion of the McKinsey PSG simulation, provided by MConsulting Prep, upon the user inputting a list organisms to choose from. 
 <br>
